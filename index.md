@@ -13,12 +13,18 @@
 - React
 
 
-## 기술 블로그
+## 기술 정리
 
 ### [Velog](https://velog.io/@gks990401/posts)
 ```
     개인 프로젝트 및 팀 프로젝트에서 겪은 문제점을 정리한 기술 블로그
     Docker / NestJs / Spring Boot 를 공부하고 겪은 문제점을 정리
+```
+
+### [LoRaWAN](https://github.com/kit-teamcook-2023/the-things-stack_lora)
+```
+    가스비 실시간 확인 시스템에서 사용하려던 LoRaWAN 스택
+    해당 스택을 사용하면서 겪었던 오류들을 단계별로 작성
 ```
 
 ## Projects
@@ -65,17 +71,23 @@
     높아지는 가스비 및 전기요금에 대응하여
     실시간으로 요금 확인을 할 수 있는 시스템 구축
 
-    LoRaWAN 스택을 사용하려 하였으나
-    기기 호환성 문제로 사용하지 못함
-
     기여
         - 서버로 들어오는 데이터 처리 및 가공 작업
         - Firestore를 이용한 NoSQL 기반 측정 데이터 저장
 ```
 - [Backend](https://github.com/kit-teamcook-2023/teamcook-backend)
 
-### [LoRaWAN](https://github.com/kit-teamcook-2023/the-things-stack_lora)
+
+### [리듬게이머를 위한 패턴 연습 사이트](https://github.com/rhythm-gamers/rg-back)
+개발 기간 : 24.01.15 ~ 
 ```
-    가스비 실시간 확인 시스템에서 사용하려던 LoRaWAN 스택
-    해당 스택을 사용하면서 겪었던 오류들을 단계별로 작성
+    무료로 패턴을 연습할 수 있는 사이트가 있으면 좋겠다고 생각하여
+    의견이 맞는 친구들과 사이트 제작
+
+    기여
+        - S3를 이용한 클라우드 데이터베이스 활용으로 고용량 파일 처리
+        - 도커 이미지 자동 배포/무중단 배포 기능 구현
+        - 데이터베이스 설계 및 정규화
 ```
+- [Backend](https://github.com/rhythm-gamers/rg-back)
+- [Docker](https://github.com/PromotezCitizen/docker-compose)

@@ -3,14 +3,16 @@
 ## Stack
 
 - Python
+    - FastAPI
 - C/C++
 - JAVA
-- Javascript
+    - SpringBoot
+    - QuedyDSL
 - Node.js
-- TypeScript
-- Kotlin
-- FastAPI
-- React
+    - NestJS
+    - React
+- Docker
+- Nginx
 
 
 ## 기술 정리
@@ -91,3 +93,24 @@
 ```
 - [Backend](https://github.com/rhythm-gamers/rg-back)
 - [Docker](https://github.com/PromotezCitizen/docker-compose)
+
+
+### 우리 동네 물건 대여 사이트 - Billage
+개발 기간 : 24.11.18 ~ 24.12.13
+```
+    물건을 꼭 사야할 필요가 있을까요?
+    동네 이웃 같 신뢰를 기반으로 필요한 물건을 간편하게 빌릴 수 있는 플랫폼입니다.
+
+    역할: 오류 해결의 길잡이, 채팅
+    - 오전, 오후 스크럼간 공유된 문제점의 해결 방안을 공유
+    - 기록사항이 있다면 기록물으로 저장
+    
+    주요 성과
+    - QGIS 및 Polygon 데이터를 활용한 사용자 위치 기반 데이터 필터링
+    - WebSocket을 통한 알림 메시지 설계
+        - WebSocket 기술을 적용하여 실시간으로 사용자에게 알림 메시지 전달
+    - 채팅 내역을 바탕으로 한 예약 시스템 설계
+```
+- [Backend](https://github.com/Elice-Track-Cloud-4-HanSH/billage-backend)
+- [Frontend](https://github.com/Elice-Track-Cloud-4-HanSH/billage-frontend)
+

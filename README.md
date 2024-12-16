@@ -29,6 +29,13 @@
     해당 스택을 사용하면서 겪었던 오류들을 단계별로 작성
 ```
 
+### [Notion](https://thin-cupboard-d95.notion.site/Elice-Cloud-Track-4-15e09d35c17e809b99e8e72b4ee7a9a4)
+```
+    Elice Cloud Track 4기를 수강하는 중 얻은 것들을 정리
+    새로운 기술 스택, 구축 방법 정리
+    수업때 들은 내용을 입맛에 맞게 정리
+```
+
 ## Projects
 
 ### [특정 시간대에 조명을 어둡게 하는 임베디드 시스템](https://github.com/orgs/embeddedTeamARM)
